@@ -1,4 +1,4 @@
-# House Price Prediction Project
+# Bank Churn Prediction Project
 
 ## 🏡 About The Project
 
@@ -40,31 +40,16 @@ The dataset comprises various features related to residential properties, includ
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XgBoost
+- Lightgbm
+- SMOTE  
 
 ## 📋 Installation
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/ThecoderPinar/House-Price-Prediction-Project.git
+   git clone https://github.com/ralvarop/Bank-Churn-Prediction-Project.git
 2. Install required packages
    ```sh
    pip install -r requirements.txt
 
-## 🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-  **Fork the Project**
-- Create your Feature Branch (git checkout -b feature/House-Price-Prediction-Projec)
-- Commit your Changes (git commit -m 'Add some House-Price-Prediction-Project')
-- Push to the Branch (git push origin feature/House-Price-Prediction-Project)
-- Open a Pull Request
-
-## 📝 License
-Distributed under the MIT License. See LICENSE for more information.
-
-## 📞 Contact
-Your Name - Your Email
-- Pınar Topuz
-- piinartp@gmail.com
-
-Project Link: https://github.com/ThecoderPinar/House-Price-Prediction-Project
