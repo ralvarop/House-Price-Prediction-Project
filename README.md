@@ -1,8 +1,8 @@
 # Bank Churn Prediction Project
 
-## 🏡 About The Project
+## 🏡 :bank: About The Project
 
-This project aims to predict house prices using advanced regression techniques. By leveraging various features and data points, we strive to build a robust model for accurate price predictions.
+The dataset for this competition (both train and test) was generated from a deep learning model trained on the Bank Customer Churn Prediction dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
 
 ## 🚀 Project Highlights
 
@@ -16,7 +16,7 @@ This project aims to predict house prices using advanced regression techniques. 
 
 ### Data Set Description
 
-The dataset comprises various features related to residential properties, including size, location, amenities, and other relevant factors. It encompasses a diverse range of housing prices and related attributes.
+The dataset for this competition (both train and test) was generated from a deep learning model trained on the Bank Customer Churn Prediction dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
 
 ### Project Steps
 
